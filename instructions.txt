@@ -1,0 +1,3 @@
+First download the dataset into the dataset folder inside your project folder. 
+Run data_merging.ipynb, it will save the merged dataset in the dataset folder. 
+Then start working on fraud_detection.ipynb
